@@ -1,5 +1,5 @@
 # Gulp-template
-Gulp starter template using various tasks such as:
+Gulp starter template with tasks such as:
 
 - BrowserSync to set up the local server, synchronise and autorefresh browsers
 - Gulp sass to compile sass
